@@ -13,4 +13,5 @@ let contador = 0;
 
 while(contador <= teclas.length) {
     teclas[contador].onclik = tocaSom;
+    contador++
 }
